@@ -8,7 +8,7 @@
 #include<arpa/inet.h>
 #include<pthread.h>
 #define MAXLINE 1000           //消息的最大长度
-#define SERV_PORT 6666        //服务器端口
+#define SERV_PORT 5555        //服务器端口
 #define MAXLINKING 5          //最大连接数
 
 /**
